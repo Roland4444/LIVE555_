@@ -1,0 +1,4 @@
+/home/romanx/extend/clion-2021.1.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/romanx/extend/live
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/romanx/extend/live/cmake-build-debug
